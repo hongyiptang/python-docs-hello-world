@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'hyipwebapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e078cd1764e14cf5be49874b6e4ec121 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_00d4c87c01274f2697ad54b2016b374c }}
